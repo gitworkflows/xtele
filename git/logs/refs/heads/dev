@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 02135d690fdc18029d1984b10bcbacf03461ae73 Sujan <skbiswaskuet@gmail.com> 1628660139 +0600	clone: from https://gitlab.com/sujan08/commonapp.git
+02135d690fdc18029d1984b10bcbacf03461ae73 7cfff170fdedc1d1f046036f2bb5d931d7aff179 Sujan <skbiswaskuet@gmail.com> 1628660393 +0600	commit: Common App Done
+7cfff170fdedc1d1f046036f2bb5d931d7aff179 37435d71f6247f221017f85f5706b96f433b4689 Sujan <skbiswaskuet@gmail.com> 1628660925 +0600	commit: Final Update 2020-08-10 10PM
+37435d71f6247f221017f85f5706b96f433b4689 902192abf56a120559bcbcd18de7d94fe1355ad5 Sujan <skbiswaskuet@gmail.com> 1628666092 +0600	commit: Color updated
+902192abf56a120559bcbcd18de7d94fe1355ad5 9b0db7dd558812baeb1343f52cefc89132daa584 Sujan <skbiswaskuet@gmail.com> 1628677004 +0600	commit: Updated
+9b0db7dd558812baeb1343f52cefc89132daa584 87a1e9a6e0d296e64cfa7b89e656597714aefad7 Sujan <skbiswaskuet@gmail.com> 1628746097 +0600	commit: birth reg, nid box not show prob fixed
+87a1e9a6e0d296e64cfa7b89e656597714aefad7 c696602f6fa496627266627651a744563764a970 Sujan <skbiswaskuet@gmail.com> 1628758284 +0600	commit: min edu validation fixed
+c696602f6fa496627266627651a744563764a970 92de4733e35700e1b01e987e02854e87b4731eb7 nxpkg <iconmamundentist@gmail.com> 1702444854 +0600	commit: security analysis
+92de4733e35700e1b01e987e02854e87b4731eb7 92de4733e35700e1b01e987e02854e87b4731eb7 nxpkg <iconmamundentist@gmail.com> 1702445001 +0600	Branch: renamed refs/heads/main to refs/heads/dev
